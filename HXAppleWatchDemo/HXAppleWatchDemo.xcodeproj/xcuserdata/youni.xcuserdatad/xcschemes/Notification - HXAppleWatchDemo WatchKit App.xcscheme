@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0620"
+   version = "2.0">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8F8CBA831ACB7B14005E4E6B"
+               BuildableName = "HXAppleWatchDemo WatchKit App.app"
+               BlueprintName = "HXAppleWatchDemo WatchKit App"
+               ReferencedContainer = "container:HXAppleWatchDemo.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8F8CBA761ACB7B13005E4E6B"
+               BuildableName = "HXAppleWatchDemo WatchKit Extension.appex"
+               BlueprintName = "HXAppleWatchDemo WatchKit Extension"
+               ReferencedContainer = "container:HXAppleWatchDemo.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8F8CBA4D1ACB7AEF005E4E6B"
+               BuildableName = "HXAppleWatchDemo.app"
+               BlueprintName = "HXAppleWatchDemo"
+               ReferencedContainer = "container:HXAppleWatchDemo.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "8F8CBA831ACB7B14005E4E6B"
+            BuildableName = "HXAppleWatchDemo WatchKit App.app"
+            BlueprintName = "HXAppleWatchDemo WatchKit App"
+            ReferencedContainer = "container:HXAppleWatchDemo.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES"
+      launchAutomaticallySubstyle = "8"
+      notificationPayloadFile = "HXAppleWatchDemo WatchKit Extension/PushNotificationPayload.apns">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/HXAppleWatchDemo">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "8F8CBA831ACB7B14005E4E6B"
+            BuildableName = "HXAppleWatchDemo WatchKit App.app"
+            BlueprintName = "HXAppleWatchDemo WatchKit App"
+            ReferencedContainer = "container:HXAppleWatchDemo.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "8F8CBA831ACB7B14005E4E6B"
+            BuildableName = "HXAppleWatchDemo WatchKit App.app"
+            BlueprintName = "HXAppleWatchDemo WatchKit App"
+            ReferencedContainer = "container:HXAppleWatchDemo.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/HXAppleWatchDemo">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "8F8CBA831ACB7B14005E4E6B"
+            BuildableName = "HXAppleWatchDemo WatchKit App.app"
+            BlueprintName = "HXAppleWatchDemo WatchKit App"
+            ReferencedContainer = "container:HXAppleWatchDemo.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "8F8CBA831ACB7B14005E4E6B"
+            BuildableName = "HXAppleWatchDemo WatchKit App.app"
+            BlueprintName = "HXAppleWatchDemo WatchKit App"
+            ReferencedContainer = "container:HXAppleWatchDemo.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>

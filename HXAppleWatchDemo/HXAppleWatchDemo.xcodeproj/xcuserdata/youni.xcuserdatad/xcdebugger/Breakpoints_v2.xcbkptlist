@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HXAppleWatchDemo/ViewController.swift"
+            timestampString = "449566600.804951"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HXAppleWatchDemo WatchKit Extension/InterfaceController.swift"
+            timestampString = "449597734.215361"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "willActivate()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HXAppleWatchDemo WatchKit Extension/InterfaceController.swift"
+            timestampString = "449587863.992793"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "openApp()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HXAppleWatchDemo_WatchKit_Extension.InterfaceController.openApp (HXAppleWatchDemo_WatchKit_Extension.InterfaceController)() -&gt; ()"
+                  moduleName = "HXAppleWatchDemo WatchKit Extension"
+                  urlString = "file:///Users/youni/Desktop/my_dream/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/HXAppleWatchDemo/HXAppleWatchDemo%20WatchKit%20Extension/InterfaceController.swift"
+                  timestampString = "449597515.533794"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HXAppleWatchDemo_WatchKit_Extension.InterfaceController.(openApp (HXAppleWatchDemo_WatchKit_Extension.InterfaceController) -&gt; () -&gt; ()).(closure #1)"
+                  moduleName = "HXAppleWatchDemo WatchKit Extension"
+                  urlString = "file:///Users/youni/Desktop/my_dream/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/HXAppleWatchDemo/HXAppleWatchDemo%20WatchKit%20Extension/InterfaceController.swift"
+                  timestampString = "449597515.533994"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reabstraction thunk helper from @callee_owned (@in (Swift.ImplicitlyUnwrappedOptional&lt;Swift.Dictionary&lt;ObjectiveC.NSObject, Swift.AnyObject&gt;&gt;, Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSError&gt;)) -&gt; (@out ()) to @callee_owned (@owned Swift.ImplicitlyUnwrappedOptional&lt;Swift.Dictionary&lt;ObjectiveC.NSObject, Swift.AnyObject&gt;&gt;, @owned Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSError&gt;) -&gt; (@unowned ())"
+                  moduleName = "HXAppleWatchDemo WatchKit Extension"
+                  urlString = "file:///Users/youni/Desktop/my_dream/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/HXAppleWatchDemo/HXAppleWatchDemo%20WatchKit%20Extension/InterfaceController.swift"
+                  timestampString = "449597515.534296"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reabstraction thunk helper from @callee_owned (@owned Swift.ImplicitlyUnwrappedOptional&lt;Swift.Dictionary&lt;ObjectiveC.NSObject, Swift.AnyObject&gt;&gt;, @owned Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSError&gt;) -&gt; (@unowned ()) to @callee_unowned @objc_block (@unowned Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSDictionary&gt;, @unowned Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSError&gt;) -&gt; (@unowned ())"
+                  moduleName = "HXAppleWatchDemo WatchKit Extension"
+                  urlString = "file:///Users/youni/Desktop/my_dream/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/HXAppleWatchDemo/HXAppleWatchDemo%20WatchKit%20Extension/InterfaceController.swift"
+                  timestampString = "449597515.534474"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "14">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HXAppleWatchDemo WatchKit Extension/InterfaceController.swift"
+            timestampString = "449595067.809225"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "openApp()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HXAppleWatchDemo WatchKit Extension/InterfaceController.swift"
+            timestampString = "449595046.226575"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "openApp()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HXAppleWatchDemo WatchKit Extension/InterfaceController.swift"
+            timestampString = "449595052.433773"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getContacts(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HXAppleWatchDemo WatchKit Extension/InterfaceController.swift"
+            timestampString = "449595054.907987"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getContacts(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HXAppleWatchDemo WatchKit Extension/InterfaceController.swift"
+            timestampString = "449595398.808137"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "sendMessage(_:text:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HXAppleWatchDemo_WatchKit_Extension.InterfaceController.sendMessage (HXAppleWatchDemo_WatchKit_Extension.InterfaceController)(Swift.String, text : Swift.String) -&gt; ()"
+                  moduleName = "HXAppleWatchDemo WatchKit Extension"
+                  urlString = "file:///Users/youni/Desktop/my_dream/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/HXAppleWatchDemo/HXAppleWatchDemo%20WatchKit%20Extension/InterfaceController.swift"
+                  timestampString = "449597515.536992"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HXAppleWatchDemo_WatchKit_Extension.InterfaceController.(sendMessage (HXAppleWatchDemo_WatchKit_Extension.InterfaceController) -&gt; (Swift.String, text : Swift.String) -&gt; ()).(closure #1)"
+                  moduleName = "HXAppleWatchDemo WatchKit Extension"
+                  urlString = "file:///Users/youni/Desktop/my_dream/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/HXAppleWatchDemo/HXAppleWatchDemo%20WatchKit%20Extension/InterfaceController.swift"
+                  timestampString = "449597515.537155"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HXAppleWatchDemo/AppDelegate.swift"
+            timestampString = "449597734.215361"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "application(_:handleWatchKitExtensionRequest:reply:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HXAppleWatchDemo/AppDelegate.swift"
+            timestampString = "449597734.215361"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "application(_:handleWatchKitExtensionRequest:reply:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HXAppleWatchDemo/AppDelegate.swift"
+            timestampString = "449597734.215361"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
