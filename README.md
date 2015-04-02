@@ -1,6 +1,6 @@
 # AppleWatchDemo-Android
 此项目简单演示Apple Watch Kit 如何集成环信的SDK
-current only few features were implemented but subject to be implemented more in future
+current only few features were implemented but subject to be implemented more in future. And this project is implemented using Swift language
 
 ##InterfaceController
 Apple Watch App Extension bridge implementation，which is the bridge connecting to IOS App
